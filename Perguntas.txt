@@ -1,5 +1,9 @@
 As 5 perguntas necessárias para resolver problemas.
 
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e peça mais 
+informações/investigue mais até você compreender completamente o problema)
+
 1. Quais são os dados de entrada necessários?
 
 2. O que devo fazer com estes dados?
